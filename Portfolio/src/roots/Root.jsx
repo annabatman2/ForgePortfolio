@@ -6,7 +6,7 @@ export const Root = () => {
         <div>
             <h1>Anna Batman</h1>
             <img
-                src="/Users/annabatman/Desktop/Code stuff/Forge/Portfolio/src/BrazilPic.jpg"
+                src="./BrazilPic.jpg"
                 alt="Picture of me!"
             />
             <br></br>
